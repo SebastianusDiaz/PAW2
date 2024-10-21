@@ -8,16 +8,16 @@ router.use('/', (req, res) => {
         layout: "layouts/main-layout",
         data: [
             {
-                npm: "2226240090",
-                nama: "Jessica"
+                npm: "2226240114",
+                nama: "Diaz"
             },
             {
-                npm: "2226240061",
-                nama: "Fiolin"
+                npm: "2226240027",
+                nama: "Nelsen"
             },
             {
-                npm: "2226240125",
-                nama: "Cyndi"
+                npm: "2226240024",
+                nama: "Ericson"
             }
         ]
     };
